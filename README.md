@@ -1,0 +1,1 @@
+premierement, on cree le reseau qui se compose de 3 routeurs,3 switch  et 5 pc , puis on effectue le routage statique sur chaque composant , et finalement on pass le ping de routeur aux autre pc pour garentire le passage de message qu'on veut pinger.
